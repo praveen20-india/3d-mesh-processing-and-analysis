@@ -1,0 +1,6 @@
+numpy>=1.26.4
+opencv-python==4.9.0.80
+open3d
+trimesh
+scipy
+matplotlib
