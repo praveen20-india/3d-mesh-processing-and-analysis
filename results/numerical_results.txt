@@ -1,0 +1,15 @@
+3D Mesh Processing -- ICP Registration Results
+==================================================
+Dataset    Fitness      RMSE        
+----------------------------------------
+Full       0.995007     0.003038    
+Half       0.737998     0.003462    
+Quarter    0.613790     0.004829    
+Third      0.570429     0.004674    
+----------------------------------------
+
+Dataset mesh statistics:
+  Full       vertices= 748,987  faces= 249,691  diameter=3.6000
+  Half       vertices= 250,278  faces=  83,432  diameter=1.4820
+  Quarter    vertices=   9,974  faces=   3,337  diameter=0.7898
+  Third      vertices=  38,649  faces=  12,883  diameter=3.7487
